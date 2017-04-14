@@ -11,7 +11,7 @@
 
 ## clone
 
-```git clone  https://github.com/shirabelass1001/ansible-vagrant-java.git```
+```git clone  https://github.com/borderhub/ansible-vagrant-java.git```
 
 ## run
 
